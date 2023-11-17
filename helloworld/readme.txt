@@ -1,0 +1,1 @@
+https://learn.microsoft.com/ko-kr/vcpkg/get_started/get-started?pivots=shell-cmd
